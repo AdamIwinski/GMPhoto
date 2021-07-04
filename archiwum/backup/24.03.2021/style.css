@@ -1,0 +1,54 @@
+:root {
+    --main-color: #101010;
+    --secondary-color: #262323;
+    --accent-color: #FF4E02;
+    --text-color: #C8C8C8;
+}
+
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: var(--main-color);
+}
+
+.logo{
+    padding: 8.5vh 0 0 20px;
+}
+
+.block1{
+    width: 32vw;
+    height: 75vh;
+    background-color: var(--secondary-color);
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+
+.main-img{
+    padding-left: 7%;
+    margin-top: 10%;
+}
+
+.kontakt{
+    height: 1.5em;
+    width: 7em;
+    background-color:rgb(19, 19, 19);
+    color: var(--text-color);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5em;
+    box-shadow: 2px 2px 5px black;
+}
+.kontakt a{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(19,19,19);
+    padding: 1em 2em;
+    border-bottom: 1px solid var(--accent-color);
+    text-decoration: none;
+    color: var(--text-color);
+    text-align: center;
+    text-transform: uppercase;
+}
