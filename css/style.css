@@ -217,7 +217,7 @@ p{
 }
 .trabka{
     height: 90vh;
-    background-image: url(/assets/images/trąbka.jpg);
+    background-image: url(./assets/images/trąbka.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -234,7 +234,7 @@ p{
 .pani{
     height: 90vh;
     
-    background-image: url(/assets/images/Dziewczyna.jpg);
+    background-image: url(./assets/images/Dziewczyna.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -250,7 +250,7 @@ p{
 
 .viol{
     height: 90vh;
-    background-image: url(/assets/images/viol.jpg);
+    background-image: url(./assets/images/viol.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -267,7 +267,7 @@ p{
 .ślub{
     height: 90vh;
     
-    background-image: url(/assets/images/ślub.jpg);
+    background-image: url(./assets/images/ślub.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -282,7 +282,7 @@ p{
 }
 .kol{
     height: 90vh;
-    background-image: url(/assets/images/chinczyl.jpg);
+    background-image: url(./assets/images/chinczyl.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -299,7 +299,7 @@ p{
 .chiny{
     height: 90vh;
     
-    background-image: url(/assets/images/chiny.jpg);
+    background-image: url(./assets/images/chiny.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
